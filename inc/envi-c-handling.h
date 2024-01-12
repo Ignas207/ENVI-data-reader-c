@@ -1,3 +1,13 @@
+/**
+ * @file envi-c-handling.h
+ * @author Ignas207 (https://github.com/Ignas207/ENVI-data-reader-c)
+ * @brief ENVI file reader user functions
+ * @version 1.0
+ * @date 2024-01-12
+ * 
+ * @copyright Copyright (c) 2024 MIT License
+ * 
+ */
 #ifndef ENVI_C_DATA_HANDLING_H
 #define ENVI_C_DATA_HANDLING_H
 
